@@ -1,5 +1,3 @@
-# ticket-booking-api-automation
-This repository contains automated Postman tests for the Ticket Booking API, covering user login, authorization, booking creation, updating bookings, fetching booking details by ID, and pinging the service for availability.
 # 🎟️ Ticket Booking API Automation
 
 This repository contains automated API tests for the **Ticket Booking System**, created using **Postman**. The project validates key functionalities of the API including user authentication, booking creation, retrieval, updating, and health checks.
