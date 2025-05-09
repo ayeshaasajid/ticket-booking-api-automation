@@ -8,8 +8,8 @@ This repository contains automated API tests for the **Ticket Booking System**, 
 
 | File/Folder       | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
-| `ticketbookingpostman_collection.json` | Postman collection containing all the test cases across API endpoints. |
-| `TicketBookingAPIReport.html`             | Exported HTML report showing the results of test executions.            |
+[`ticketbookingpostman_collection.json`](./ticketbookingpostman_collection.json) | Postman collection containing all the test cases across API endpoints. |
+| [`TicketBookingAPIReport.html`](./TicketBookingAPIReport.html) | Exported HTML report showing the results of test executions. |
 
 ---
 
@@ -34,7 +34,7 @@ Each test case includes proper status code validation, field validation, and neg
 2. **Import the Collection**:
    - Open Postman.
    - Click on `Import` > `Upload Files`.
-   - Select `TicketBookingAPI.postman_collection.json`.
+   - Select [`ticketbookingpostman_collection.json`](./ticketbookingpostman_collection.json).
 
 3. **Run the Tests**:
    - Use the `Collection Runner` in Postman.
@@ -45,7 +45,7 @@ Each test case includes proper status code validation, field validation, and neg
 
 ## 📊 Reporting
 
-- HTML report: `TicketBookingAPIReport.html`
+- HTML report: [`TicketBookingAPIReport.html`](./TicketBookingAPIReport.html)
 - Contains summary, detailed test results, and assertion outcomes.
 
 ---
